@@ -1,0 +1,8 @@
+print('Welcome to Horoscope!')
+name = input("Name :")
+famname = input("Family's Name:")
+animal = input("Fav's Animal :")
+horoscope = input("Horoscope :")
+print('Индивидуальный гороскоп для пользователя', name, famname )
+print('Кем вы были в прошлой жизни:', animal)
+print('Ваш знак зодиака -' ,horoscope,', поэтому вы - тонко чувствующая натура.')
